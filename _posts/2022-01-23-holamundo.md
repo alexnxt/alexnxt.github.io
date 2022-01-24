@@ -24,4 +24,4 @@ Puede que tengas algunas necesidades "especiales" que van más allá de esas act
 
 Los controladores gráficos de Nvidia y AMD son otro drama, y las experiencias varían desde las más idóneas a las más catastróficas. Aunque el gaming en Linux vive un momentazo con **miles de juegos para Windows siendo compatibles gracias al Proton de Valve**, la realidad es que todos esos juegos en "Oro" que aparecen en ProtonDB pueden ser una moneda al aire si los trucos y configuraciones que hay que aplicar se complican demasiado. 
 
-Fuente: Genbeta
+Fuente: [Genbeta](https://www.genbeta.com/linux/a-pesar-gran-momento-que-vive-linux-escritorio-se-me-hace-imposible-volver-a-usarlo-como-sistema-principal)
