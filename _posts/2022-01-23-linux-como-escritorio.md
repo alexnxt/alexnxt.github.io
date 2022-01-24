@@ -8,7 +8,7 @@ tag:
 - markdown 
 - sample
 - test
-comments: false
+comments: true
 ---
 Han pasado siete meses desde la última vez que instalé una **distro Linux** en alguno de mis ordenadores, en disco, nada de máquinas virtuales o trasteos tímidos con un LiveUSB. La aventura me duró más o menos un mes. Fue con Archcraft, una distro basada en Arch extremadamente minimalista y que, sinceramente, luce y funciona bastante fenomenal... pero no lo suficiente.
 
