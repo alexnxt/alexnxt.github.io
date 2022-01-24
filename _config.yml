@@ -1,7 +1,7 @@
 # Site
-title:              Alexis
-bio:                'Blog minimal'
-description:        "Beta Posts."
+title:              Alex-is
+bio:                'Mi pequeño espacio :)'
+description:        "Blog,chill and learn."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   yamatochaos
 
 # Social
 # if you don't have any of social below, comment the line.
