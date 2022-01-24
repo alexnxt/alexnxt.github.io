@@ -2,6 +2,7 @@
 layout: post
 title:  "Linux como escritorio"
 date:   2022-01-23
+feature: https://i.blogs.es/8c5fe0/archcraft-linux/1024_2000.jpg
 excerpt: "A pesar del gran momento que vive Linux en el escritorio se me hace imposible volver a usarlo como sistema principal."
 tag:
 - markdown 
